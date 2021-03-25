@@ -1,0 +1,21 @@
+RNN -> Conv1d -> Attention -> transformer -> transferlearning
+etc
+-데이터 전처리
+    - bpe
+    - 형태소 분석기(konlpy, mecab)
+    .... 등
+
+
+
+
+
+variation of RNN
+     - RNN
+    -GRU
+    -LSTM
+
+variation of transformer
+encoder
+    - Bert
+decoder 
+    -gpt
